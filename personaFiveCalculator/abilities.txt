@@ -1,0 +1,188 @@
+Skill:Effect:Cost:Type
+Lunge:Light Physical damage to 1 foe.:5% HP:Physical
+Cleave:Light Physical damage to 1 foe.:6% HP:Physical
+Power Slash†:Medium Physical damage to 1 foe.:10% HP:Physical
+Assault Dive:Heavy Physical damage to 1 foe.:13% HP:Physical
+Megaton Raid:Severe Physical damage to 1 foe.:16% HP:Physical
+Brave Blade:Colossal Physical damage to 1 foe.:24% HP:Physical
+God's Hand:Colossal Physical damage to 1 foe.:25% HP:Physical
+Giant Slice:Medium Physical damage to 1 foe. Stronger under Baton Pass.:9% HP:Physical
+Rising Slash:Heavy Physical damage to 1 foe. Stronger under Baton Pass.:14% HP:Physical
+Deadly Fury:Severe Physical damage to 1 foe. Stronger under Baton Pass.:18% HP:Physical
+Double Fangs:Light Physical damage to 1 foe 2x.:10% HP:Physical
+Kill Rush†:Light Physical damage to 1 foe 1x to 3x.:14% HP:Physical
+Gatling Blow†:Light Physical damage to 1 foe 3x to 4x.:16% HP:Physical
+Tempest Slash:Minuscule Physical damage to 1 foe 3x to 5x.:17% HP:Physical
+Myriad Slashes:Medium Physical damage to 1 foe 2x to 3x.:20% HP:Physical
+Terror Claw:Light Physical damage and inflict Fear (medium odds) to 1 foe.:8% HP:Physical
+Headbutt:Medium Physical damage and inflict Forget (medium odds) to 1 foe.:9% HP:Physical
+Hysterical Slap:Medium Physical damage and inflict Rage (medium odds) to 1 foe.:9% HP:Physical
+Brain Shake:Medium Physical damage and inflict Brainwash (medium odds) to 1 foe.:9% HP:Physical
+Sledgehammer:Medium Physical damage and inflict Dizzy (medium odds) to 1 foe.:10% HP:Physical
+Skull Cracker:Medium Physical damage and inflict Confusion (medium odds) to 1 foe.:10% HP:Physical
+Negative Pile:Heavy Physical damage and inflict Despair (medium odds) to 1 foe.:12% HP:Physical
+Death Scythe†:Severe Physical damage and inflict Fear (medium odds) to 1 foe.:20% HP:Physical
+Lucky Punch:Minuscule Physical damage to 1 foe. High critical rate.:3% HP:Physical
+Miracle Punch:Medium Physical damage to 1 foe. High critical rate.:8% HP:Physical
+Sword Dance:Colossal Physical damage to 1 foe. High critical rate.:21% HP:Physical
+Cornered Fang:Medium Physical damage to 1 foe. Stronger when surrounded.:10% HP:Physical
+Ayamur:Medium Physical damage to 1 foe 3x. High Accuracy. Unique to Baal.:25% HP:Physical
+Laevateinn†:Colossal Physical damage to 1 foe. Unique to Loki and Hereward.:25% HP:Physical
+Masquerade†:Severe Physical damage to 1 foe 2x. Unique to Ella.:25% HP:Physical
+Cross Slash↓:Heavy Physical damage to 1 foe 2x. High accuracy. Unique to Izanagi.:20% HP:Physical
+Beast Weaver↓:Colossal Physical damage to 1 foe and user's attack power is greatly reduced (independent from -kaja/-nda effects). Unique to Ariadne.:20% HP:Physical
+Snap:Medium Gun damage to 1 foe.:9% HP:Gun
+Double Shot†:Light Gun damage to 1 foe 2x.:12% HP:Gun
+One-shot Kill:Severe Gun damage to 1 foe. High critical rate.:17% HP:Gun
+Dream Needle:Light Gun damage and inflict Sleep (medium odds) to 1 foe.:8% HP:Gun
+Triple Down:Light Gun damage to all foes 3x.:16% HP:Gun
+Riot Gun:Severe Gun damage to all foes.:24% HP:Gun
+Agi:Light Fire damage to 1 foe.:4 SP:Fire
+Agilao:Medium Fire damage to 1 foe.:8 SP:Fire
+Agidyne:Heavy Fire damage to 1 foe.:12 SP:Fire
+Inferno:Severe Fire damage to 1 foe.:48 SP:Fire
+Maragi:Light Fire damage to all foes.:10 SP:Fire
+Maragion:Medium Fire damage to all foes.:16 SP:Fire
+Maragidyne:Heavy Fire damage to all foes.:22 SP:Fire
+Blazing Hell:Severe Fire damage to all foes.:54 SP:Fire
+Titanomachia↓:Severe Fire damage to all foes and:34 SP:Fire
+Bufu:Light Ice damage to 1 foe.:4 SP:Ice
+Bufula:Medium Ice damage to 1 foe.:8 SP:Ice
+Bufudyne:Heavy Ice damage to 1 foe.:12 SP:Ice
+Diamond Dust:Severe Ice damage to 1 foe.:48 SP:Ice
+Mabufu:Light Ice damage to all foes.:10 SP:Ice
+Mabufula:Medium Ice damage to all foes.:16 SP:Ice
+Mabufudyne:Heavy Ice damage to all foes.:22 SP:Ice
+Ice Age:Severe Ice damage to all foes.:54 SP:Ice
+Zio:Light Electric damage to 1 foe.:4 SP:Electric
+Zionga:Medium Electric damage to 1 foe.:8 SP:Electric
+Ziodyne:Heavy Electric damage to 1 foe.:12 SP:Electric
+Thunder Reign:Severe Electric damage to 1 foe.:48 SP:Electric
+Mazio:Light Electric damage to all foes.:10 SP:Electric
+Mazionga:Medium Electric damage to all foes.:16 SP:Electric
+Maziodyne:Heavy Electric damage to all foes.:22 SP:Electric
+Wild Thunder:Severe Electric damage to all foes.:54 SP:Electric
+Garu:Light Wind damage to 1 foe.:3 SP:Wind
+Garula:Medium Wind damage to 1 foe.:6 SP:Wind
+Garudyne:Heavy Wind damage to 1 foe.:10 SP:Wind
+Panta Rhei:Severe Wind damage to 1 foe:42 SP:Wind
+Magaru:Light Wind damage to all foes.:8 SP:Wind
+Magarula:Medium Wind damage to all foes.:14 SP:Wind
+Magarudyne:Heavy Wind damage to all foes.:20 SP:Wind
+Vacuum Wave:Severe Wind damage to all foes.:48 SP:Wind
+Psi:Light Psy damage to 1 foe.:4 SP :Psychokinesis
+Psio:Medium Psy damage to 1 foe.:8 SP:Psychokinesis
+Psiodyne:Heavy Psy damage to 1 foe.:12 SP:Psychokinesis
+Psycho Force:Severe Psy damage to 1 foe.:48 SP:Psychokinesis
+Mapsi:Light Psy damage to all foes.:10 SP:Psychokinesis
+Mapsio:Medium Psy damage to all foes.:16 SP:Psychokinesis
+Mapsiodyne:Heavy Psy damage to all foes.:22 SP:Psychokinesis
+Psycho Blast:Severe Psy damage to all foes.:54 SP:Psychokinesis
+Frei:Light Nuclear damage to 1 foe.:4 SP :Nuclear
+Freila:Medium Nuclear damage to 1 foe.:8 SP:Nuclear
+Freidyne:Heavy Nuclear damage to 1 foe.:12 SP:Nuclear
+Atomic Flare:Severe Nuclear damage to 1 foe.:48 SP:Nuclear
+Mafrei:Light Nuclear damage to all foes.:10 SP:Nuclear
+Mafreila:Medium Nuclear damage to all foes.:16 SP:Nuclear
+Mafreidyne:Heavy Nuclear damage to all foes.:22 SP:Nuclear
+Cosmic Flare:Severe Nuclear damage to all foes.:54 SP:Nuclear
+Kouha:Light Bless damage to 1 foe.:4 SP:Bless
+Kouga:Medium Bless damage to 1 foe.:8 SP:Bless
+Kougaon:Heavy Bless damage to 1 foe.:12 SP:Bless
+Makouga:Medium Bless damage to all foes.:16 SP:Bless
+Divine Judgement:Half remaining HP of 1 foe.:48 SP:Bless
+Hama:Small chance of instantly killing 1 foe.:8 SP:Bless
+Hamaon:Medium chance of instantly killing 1 foe.:15 SP:Bless
+Mahama:Small chance of instantly killing all foes.:18 SP:Bless
+Mahamaon:Medium chance of instantly killing all foes.:34 SP:Bless
+Samsara:High chance of instantly killing all foes. Unique to Daisoujou.:44 SP:Bless
+Shining Arrows↓:Light Bless damage to all foes 4x to 8x. Unique to Kaguya.:22 SP:Bless
+Eiha:Light Curse damage to 1 foe.:4 SP:Curse
+Eiga:Medium Curse damage to 1 foe.:8 SP:Curse
+Eigaon:Heavy Curse damage to 1 foe.:12 SP:Curse
+Maeiha:Light Curse damage to all foes.:10 SP:Curse
+Maeiga:Medium Curse damage to all foes.:16 SP:Curse
+Maeigaon:Heavy Curse damage to all foes.:22 SP:Curse
+Demonic Decree:Half remaining HP of 1 foe.:48 SP:Curse
+Mudo:Small chance of instantly killing 1 foe.:8 SP:Curse
+Mudoon:Medium chance of instantly killing 1 foe.:15 SP:Curse
+Mamudo:Small chance of instantly killing all foes.:18 SP:Curse
+Mamudoon:Medium chance of instantly killing all foes.:34 SP:Curse
+Die For Me!:High chance of instantly killing all foes. Unique to Alice.:44 SP:Curse
+Magatsu Mandala↓:Heavy Curse damage to all foes and inflict Confuse/Fear/Despair (medium odds). Unique to Magatsu-Izanagi.:30 SP:Curse
+Abyssal Wings↓:Severe Curse damage to all foes. Unique to Tsukiyomi.:30 SP:Curse
+Megido:Medium Almighty damage to all foes.:15 SP:Almighty
+Megidola:Heavy Almighty damage to all foes.:24 SP:Almighty
+Megidolaon:Severe Almighty damage to all foes.:38 SP:Almighty
+Life Drain:Drains HP from 1 foe.:3 SP:Almighty
+Spirit Drain:Drains SP from 1 foe.:3 SP:Almighty
+Foul Breath:"Increase susceptibility to all ailments of 1 foe.":8 SP:Almighty
+Stagnant Air:Increase susceptibility to all ailments of all foes and allies.:5 SP:Almighty
+Ghastly Wail:Instantly kill all foes under Fear.:28 SP:Almighty
+Black Viper:Severe Almighty damage to 1 foe. Unique to Satan and Satanael:48 SP:Almighty
+Morning Star:Severe Almighty damage to all foes. Unique to Lucifer.:52 SP:Almighty
+Abyssal Eye†:Severe Almighty damage to all foes. Unique to Hastur.:50 SP:Almighty
+Rebellion Blade†:Colossal Almighty damage to one foe. Damage increases if foe is downed. Unique to Hereward:99 SP:Almighty
+Door of Hades↓:Heavy Almighty damage to all foes with medium chance of instant kill. Unique to Thanatos.:32 SP:Almighty
+Myriad Truths†↓:Heavy Almighty damage to all foes x3. Unique to Izanagi-no-Okami.:40 SP:Almighty
+Dazzler:Inflict Dizzy (high odds) to 1 foe.:5 SP:Ailment
+Nocturnal Flash:Inflict Dizzy (medium odds) to all foes.:12 SP:Ailment
+Makajama:Inflict Forget (high odds) to 1 foe.:5 SP:Ailment
+Makajamaon:Inflict Forget (medium odds) to all foes.:12 SP:Ailment
+Dormina:Inflict Sleep (high odds) to 1 foe.:5 SP:Ailment
+Lullaby:Inflict Sleep (medium odds) to all foes.:12 SP:Ailment
+Phantom Show†↓:Inflict Sleep (high odds) to all foes. Unique to Raoul.:4 SP:Ailment
+Pulinpa:Inflict Confuse (high odds) to 1 foe.:5 SP:Mental
+Tentarafoo:Inflict Confuse (medium odds) to all foes.:12 SP:Mental
+Evil Touch:Inflict Fear (high odds) to 1 foe.:5 SP:Mental
+Evil Smile:Inflict Fear (medium odds) to all foes.:12 SP:Mental
+Ominous Words:Inflict Despair (high odds) to 1 foe.:5 SP:Mental
+Abysmal Surge:Inflict Despair (medium odds) to all foes.:12 SP:Mental
+Taunt:Inflict Rage (high odds) to 1 foe.:5 SP:Mental
+Wage War:Inflict Rage (medium odds) to all foes.:12 SP:Mental
+Marin Karin:Inflict Brainwash (high odds) to 1 foe.:5 SP:Mental
+Brain Jack:Inflict Brainwash (medium odds) to all foes.:12 SP:Mental
+Dia:Slightly restore 1 ally's HP.:3 SP:Healing
+Diarama:Moderately restore 1 ally's HP.:6 SP:Healing
+Diarahan:Fully restore 1 ally's HP.:18 SP:Healing
+Media:Slight restore party's HP.:7 SP:Healing
+Mediarama:Moderately restore party's HP.:12 SP:Healing
+Mediarahan:Fully restore party's HP.:30 SP:Healing
+Recarm:Revive 1 ally with 50% HP recovered.:8 SP:Healing
+Samarecarm:Revive 1 ally with all HP recovered.:18 SP:Healing
+Baisudi:Cure Burn/Freeze/Shock of 1 ally.:4 SP:Healing
+Mabaisudi:Cure Burn/Freeze/Shock of party.:8 SP:Healing
+Patra:Cure Dizzy/Forget/Sleep/Hunger of 1 ally.:4 SP:Healing
+Me Patra:Cure Dizzy/Forget/Sleep/Hunger of party.:8 SP:Healing
+Energy Drop:Cure Confuse/Fear/Despair/Rage/Brainwash of 1 ally.:4 SP:Healing
+Energy Shower:Cure Confuse/Fear/Despair/Rage/Brainwash of party.:8 SP:Healing
+Amrita Drop:Cure all ailments of 1 ally except for special status.:6 SP:Healing
+Amrita Shower:Cure all ailments of party except for special status.:12 SP:Healing
+Salvation:Fully restore HP and cure all ailments of party except for special status.:48 SP:Healing
+Holy Benevolence†:Revive all allies with all HP recovered. Unique to Maria.:27 SP:Healing
+Cadenza↓:Restore 50% HP of party and increase evasion rate. Unique to Orpheus.:24 SP:Healing
+Neo Cadenza†↓:Restore 50% HP of party, increase evasion rate, Attack and Defense. Unique to Orpheus F.:24 SP:Healing
+Oratorio↓:Fully restore party's HP and negate all -nda debuffs. Unique to Messiah.:38 SP:Healing
+Champion's Cup⌃:Moderately restore 1 ally's HP and increase Attack power for 3 turns.:10 SP:Healing
+Tarukaja:Increase 1 ally's Attack power for 3 turns.:8 SP:Support
+Rakukaja:Increase 1 ally's Defense for 3 turns.:8 SP:Support
+Sukukaja:Increase 1 ally's Agility for 3 turns.:8 SP:Support
+Heat Riser:Increase 1 ally's Attack, Defense and Agility for 3 turns.:30 SP:Support
+Matarukaja:Increase party's Attack power for 3 turns.:24 SP:Support
+Marakukaja:Increase party's Defense for 3 turns.:24 SP:Support
+Masukukaja:Increase party's Agility for 3 turns.:24 SP:Support
+Thermopylae:Increase party's Attack, Defense and Agility for 3 turns if the party is being ambushed.:30 SP:Support
+Hyakka Ryouran†:Increase party's Attack, Defense and Agility for 3 turns. Unique to Gorokichi.:90 SP:Support
+Tarunda:Decrease 1 foe's Attack power for 3 turns.:8 SP:Support
+Rakunda:Decrease 1 foe's Defense for 3 turns.:8 SP:Support
+Sukunda:Decrease 1 foe's Agility for 3 turns.:8 SP:Support
+Debilitate:Decrease 1 foe's Attack, Defense and Agility for 3 turns.:30 SP:Support
+Matarunda:Decrease all foes' Attack power for 3 turns.:24 SP:Support
+Marakunda:Decrease all foes' Defense for 3 turns.:24 SP:Support
+Masukunda:Decrease all foes' Agility for 3 turns.:24 SP:Support
+Checkmate†:Decrease all foes' Attack, Defense and Agility for 3 turns. Unique to Agnes.:90 SP:Support
+Vault Guardian⌃:Increases Defense for all allies for 3 turns. Automatic Tetrakarn/Makarakarn at the start of battle.:20 SP:Support
+Gambler's Foresight⌃:Increases Agility for all allies for 3 turns. Automatic Concentrate at the start of battle.:20 SP:Support
+Counter:10% chance of reflecting Physical attacks.:N/A:Passive
+Counterstrike:15% chance of reflecting Physical attacks.:N/A:Passive
+High Counter:20% chance of reflecting Physical attacks.:N/A:Passive

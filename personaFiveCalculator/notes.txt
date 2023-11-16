@@ -1,0 +1,14 @@
+// This file is just for interface Notes. Do not call this, as this will do nothing
+
+// - OPTIONS
+
+1. Create new Persona
+2. Edit/Delete current Personas
+3. Check Possible Fusions
+	3.a inheritable abilities
+4. Create New Save
+
+
+https://www.neoseeker.com/persona-5-royal/faqs/3080668-velvelt-room.html
+
+// healing == Recovery

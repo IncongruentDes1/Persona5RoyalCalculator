@@ -1,0 +1,242 @@
+Faith:93:Maria:Healing:52:66:53:54:61:no:no:wk:no:rs:nu:no:no:ab:no:1
+Justice:89:Metatron:Bless:54:61:60:57:42:no:no:no:no:wk:rp:ab:ab:no:wk:2
+Death:83:Alice:Curse:45:61:49:54:47:no:no:no:no:no:no:rs:rs:wk:rp:3
+Devil:87:Beelzebub:Curse:55:61:54:56:42:no:no:ab:no:no:no:no:no:wk:rp:4
+World:89:Izanagi-no-Okami Picaro:Almighty:54:61:56:58:45:rs:rs:rs:rs:rs:rs:rs:rs:no:no:5
+Fool:95:Satanael:Almighty:63:60:57:56:56:rs:rs:rs:rs:rs:rs:rs:rs:nu:ab:6
+Faith:60:Orichalcum:Passive:60:60:60:60:60:rs:rs:no:no:no:no:no:no:wk:no:7
+Lovers:85:Ishtar:Healing:48:59:49:58:48:no:no:no:no:nu:wk:no:no:no:no:8
+Star:93:Lucifer:Almighty:61:59:59:56:51:nu:nu:rs:rs:rs:rs:no:no:wk:ab:9
+Star:84:Hastur:Wind:51:59:52:56:41:no:no:rs:no:no:ab:nu:no:no:nu:10
+Judgement:92:Satan:Ice:62:59:55:52:55:no:rs:no:rp:no:no:no:no:no:rp:11
+Councillor:80:Vohu Manah:Almighty:46:59:45:56:41:no:no:no:no:rs:wk:no:no:ab:nu:12
+Magician:86:Futsunushi:Phys:60:58:55:52:40:rs:no:no:no:no:no:no:wk:no:no:13
+Emperor:84:Odin:Electric:53:58:54:52:42:no:no:no:no:nu:ab:no:no:rp:rp:14
+Emperor:82:Baal:Wind:54:58:53:47:41:no:no:rs:no:no:ab:no:no:rs:no:15
+Priestess:83:Cybele:Healing:44:57:49:51:55:no:no:rs:no:wk:no:no:no:nu:no:16
+Chariot:88:Chi You:Psychokinesis:56:57:54:53:51:rs:rs:no:no:no:no:nu:wk:no:no:17
+Temperance:84:Ardha:Almighty:54:56:55:54:40:rs:no:no:nu:nu:no:no:no:no:no:18
+Star:80:Sraosha:Bless:47:56:45:56:43:no:no:no:no:ab:no:no:no:rp:wk:19
+Judgement:90:Messiah Picaro:Almighty:56:56:55:55:55:no:no:rs:rs:rs:rs:rs:rs:rp:wk:20
+World:80:Izanagi-no-Okami:Almighty:52:56:46:48:45:rs:rs:rs:rs:rs:rs:rs:rs:no:no:21
+Hermit:86:Fafnir:Nuclear:61:55:58:48:43:rp:rp:ab:no:rs:no:no:ab:no:no:22
+Magician:83:Surt:Fire:55:54:51:50:46:no:rs:ab:wk:nu:no:no:rs:no:no:23
+Empress:85:Mother Harlot:Ice:55:54:48:50:55:no:no:no:no:rp:no:no:no:wk:nu:24
+Empress:81:Alilat:Ice:45:54:57:49:45:rp:rp:wk:ab:no:no:nu:no:no:wk:25
+Justice:81:Uriel:Almighty:50:54:49:55:42:no:no:nu:no:no:no:no:ab:rp:no:26
+Tower:90:Mada:Fire:55:54:61:59:48:no:no:ab:wk:no:no:rs:nu:no:no:27
+Judgement:87:Michael:Almighty:57:54:55:56:46:no:rs:no:no:no:no:no:no:rp:nu:28
+Judgement:82:Shiva:Psychokinesis:55:54:53:53:38:no:no:no:nu:rp:no:ab:wk:nu:nu:29
+Hermit:89:Ongyo-Ki:Phys:56:53:57:59:49:rs:no:no:no:no:no:no:no:rp:rp:30
+Devil:82:Belial:Curse:52:53:51:48:49:nu:no:no:rs:no:no:no:no:no:nu:31
+Priestess:77:Scathach:Wind:48:52:46:48:44:no:no:no:nu:rp:no:no:no:no:nu:32
+Devil:74:Nebiros:Curse:45:52:44:46:42:no:no:no:no:no:no:nu:no:wk:rs:33
+Tower:87:Yoshitsune:Phys:63:52:50:54:49:nu:no:rs:no:rp:no:no:no:rp:no:34
+Fool:83:Vishnu:Almighty:56:51:49:57:43:no:no:wk:ab:no:no:no:no:nu:nu:35
+Hierophant:76:Kohryu:Psychokinesis:43:51:50:53:38:no:no:no:no:rp:no:nu:wk:nu:no:36
+Death:72:Mot:Ailment:43:51:48:42:39:no:rs:no:no:ab:wk:no:no:no:rp:37
+Death:69:Thanatos Picaro:Almighty:45:51:43:40:35:rs:no:no:no:no:no:no:no:wk:rp:38
+Temperance:77:Gabriel:Almighty:43:51:48:54:42:no:no:no:no:no:no:nu:no:ab:no:39
+Moon:75:Sandalphon:Bless:46:51:49:48:38:rs:rs:no:no:no:no:no:no:rp:nu:40
+Fool:50:Crystal Skull:Passive:50:50:50:50:50:rs:rs:no:no:no:wk:no:no:no:no:41
+Hanged:82:Attis:Fire:49:50:48:54:52:no:no:nu:no:no:rp:no:no:no:wk:42
+Judgement:81:Messiah:Almighty:50:50:50:50:50:no:no:rs:rs:rs:rs:rs:rs:rp:wk:43
+Fool:76:Raoul:Almighty:47:49:43:54:42:no:no:no:no:no:no:no:no:wk:nu:44
+Justice:72:Throne:Bless:42:49:43:46:43:no:no:nu:no:no:nu:no:wk:rp:no:45
+Fortune:69:Lakshmi:Healing:39:49:41:47:38:no:no:wk:rs:no:no:no:no:rs:no:46
+Hanged:73:Macabre:Curse:48:49:42:48:39:no:no:no:no:rs:no:no:no:wk:nu:47
+Death:65:Thanatos:Almighty:43:49:41:38:31:rs:no:no:no:no:no:no:no:wk:rp:48
+Moon:70:Byakhee:Fire:42:49:43:51:32:no:no:nu:wk:no:nu:no:wk:no:nu:49
+Sun:76:Asura:Nuclear:52:48:51:49:35:no:no:nu:no:no:no:wk:rp:no:no:50
+Councillor:71:Dionysus:Ailment:42:48:44:42:44:no:no:no:no:rp:no:no:no:nu:nu:51
+Justice P:75:Loki:Curse:53:47:46:47:39:no:no:no:no:no:no:no:no:wk:nu:52
+Hermit:70:Loa:Curse:42:47:43:46:39:no:no:rs:no:nu:no:wk:rs:wk:no:53
+Fool:67:Black Frost:Almighty:44:46:41:42:35:no:no:rp:ab:no:no:no:nu:no:rp:54
+Fortune:62:Asterius Picaro:Almighty:46:46:36:36:29:no:no:rs:wk:no:no:rs:no:no:nu:55
+Sun:66:Quetzalcoatl:Wind:41:46:41:43:34:no:no:nu:no:no:rs:wk:no:no:no:56
+Faith P:75:Cendrillon:Bless:55:46:36:51:44:no:no:no:no:no:no:no:no:nu:wk:57
+Emperor:66:Oberon:Electric:40:45:42:43:35:no:no:no:no:rs:no:nu:wk:no:no:58
+Lovers:78:Raphael:Almighty:57:45:49:55:35:no:no:no:ab:no:no:nu:no:nu:no:59
+Justice:68:Dominion:Bless:42:45:43:44:37:no:no:no:no:wk:no:no:rp:nu:rs:60
+Strength:80:Zaou-Gongen:Fire:57:45:50:56:39:no:no:rp:no:wk:no:no:no:nu:nu:61
+Hanged:60:Moloch:Fire:32:45:42:31:37:no:no:ab:wk:rs:rs:ab:no:no:nu:62
+Star:68:Vasuki:Ailment:42:45:44:42:38:no:no:no:nu:nu:no:no:no:no:wk:63
+Emperor:61:King Frost:Ice:40:44:43:29:34:no:no:no:ab:no:no:no:no:nu:no:64
+Faith:76:Cu Chulainn:Almighty:55:44:46:48:42:rs:rs:no:no:wk:rp:no:no:nu:no:65
+Fortune:56:Asterius:Almighty:43:43:32:32:25:no:no:rs:wk:no:no:rs:no:no:nu:66
+Tower:73:Mara:Psychokinesis:51:43:43:45:44:no:nu:ab:no:no:no:rp:no:rs:nu:67
+Moon:60:Lilith:Almighty:33:43:37:39:35:no:no:wk:rp:no:no:no:rp:no:nu:68
+Faith:84:Siegfried:Phys:61:43:55:55:45:nu:rs:no:rs:nu:no:no:wk:no:no:69
+Devil:58:Baphomet:Almighty:34:42:36:38:31:no:no:rs:no:no:no:no:no:wk:nu:70
+Tower:59:Black Rider:Curse:36:42:34:42:30:no:no:wk:ab:no:no:no:no:rs:rs:71
+Judgement:75:Abaddon:Curse:51:42:58:38:43:ab:ab:no:no:no:no:no:no:rs:ab:72
+Judgement:59:Trumpeter:Almighty:33:42:40:38:31:no:no:no:ab:rp:no:no:no:rp:nu:73
+Empress:63:Kali:Fire:43:41:39:39:34:no:rp:nu:no:no:no:rp:no:no:rs:74
+Councillor:62:Seiryu:Ice:38:41:43:37:34:no:no:no:rs:no:no:no:wk:no:no:75
+Councillor:57:Yatagarasu:Fire:35:41:30:40:32:no:no:no:no:no:rs:no:no:nu:wk:76
+Empress:56:Titania:Nuclear:32:40:35:38:30:no:no:no:no:no:no:wk:rs:rs:rs:77
+Strength:74:Chimera:Phys:51:40:42:48:48:no:no:ab:nu:no:wk:no:no:no:wk:78
+Death:40:Hope Diamond:Passive:40:40:40:40:40:rs:rs:no:wk:no:no:no:no:no:no:79
+Magician:63:Forneus:Psychokinesis:41:39:40:42:34:no:no:no:ab:wk:no:nu:no:no:no:80
+Priestess:53:Skadi:Ice:33:39:32:34:28:no:no:no:rp:no:no:no:no:no:nu:81
+Lovers:56:Parvati:Psychokinesis:33:39:33:39:31:no:no:no:rp:no:no:rs:no:rs:wk:82
+Chariot:64:Thor:Electric:44:39:43:38:35:rs:no:no:no:nu:no:no:no:rs:rs:83
+Fortune:52:Norn:Almighty:30:38:33:34:28:no:no:no:no:rp:ab:no:no:rs:no:84
+Strength:64:Hanuman:Phys:43:38:40:40:38:no:rs:no:wk:no:no:rs:no:rs:no:85
+Tower:48:Magatsu-Izanagi Picaro:Almighty:40:38:35:27:11:no:rs:no:no:no:no:no:wk:nu:nu:86
+Judgement:64:Yamata-no-Orochi:Ice:44:38:48:36:33:rs:no:no:ab:no:rs:no:no:no:rs:87
+Hierophant:67:Bishamonten:Nuclear:51:37:42:44:34:no:no:ab:wk:no:no:no:no:rs:rs:88
+Death:62:Chernobog:Ailment:40:37:39:38:39:no:rs:wk:ab:nu:no:no:no:wk:ab:89
+Death:54:Pale Rider:Curse:32:37:33:40:27:no:no:no:no:no:rs:no:no:wk:rp:90
+Temperance:55:Raja Naga:Electric:33:37:36:35:31:no:no:no:no:nu:no:no:no:no:no:91
+Star:52:Garuda:Wind:30:36:29:39:29:no:no:no:no:no:rs:no:no:rp:no:92
+Faith:65:Atavaka:Phys:51:36:43:38:34:rs:nu:rp:no:no:no:no:no:no:rs:93
+Magician:43:Queen Mab:Almighty:23:35:26:30:22:no:no:nu:no:rs:wk:no:no:no:no:94
+Priestess:50:Sarasvati:Healing:30:35:32:33:27:no:no:no:nu:rs:no:no:wk:no:no:95
+Emperor:52:Barong:Electric:33:35:33:37:25:no:rs:no:no:rs:wk:no:no:nu:wk:96
+Chariot:55:Cerberus:Fire:39:35:32:39:27:no:no:ab:wk:no:no:no:rs:no:no:97
+Hanged:35:Emperor's Amulet:Passive:35:35:35:35:35:rs:rs:no:no:wk:no:no:no:no:no:98
+Tower:51:Seth:Fire:32:35:30:35:28:no:no:rp:no:no:nu:no:no:wk:rs:99
+Tower:44:Magatsu-Izanagi:Almighty:37:35:32:25:10:no:rs:no:no:no:no:no:wk:nu:nu:100
+Moon:55:Tsukiyomi Picaro:Almighty:41:35:36:40:20:rs:no:no:no:no:no:no:wk:rs:rp:101
+Faith:54:Okuninushi:Psychokinesis:39:35:33:32:30:no:no:no:no:rp:wk:nu:wk:no:no:102
+Magician:48:Rangda:Curse:28:34:30:33:26:rp:rp:nu:no:wk:no:no:no:wk:nu:103
+Hanged:51:Jatayu:Wind:31:34:29:36:30:no:no:no:rs:no:rp:no:wk:rs:no:104
+Fool:49:Bugs:Almighty:35:33:30:32:24:no:no:no:no:no:no:rs:wk:no:nu:105
+Hierophant:40:Daisoujou:Bless:21:33:24:24:25:rs:no:no:no:no:no:no:no:nu:wk:106
+Devil:45:Pazuzu:Curse:29:33:27:26:27:no:no:no:no:no:rs:no:no:wk:nu:107
+Empress:50:Dakini:Phys:34:32:34:28:29:no:nu:rs:no:no:no:no:no:no:no:108
+Empress:40:Hariti:Electric:21:32:24:23:27:no:no:no:no:no:wk:rs:no:rs:no:109
+Hierophant:52:Mishaguji:Ailment:32:32:32:32:35:rs:no:no:wk:nu:no:no:no:no:ab:110
+Justice:58:Melchizedek:Bless:37:32:40:39:33:no:no:no:no:no:wk:rs:no:ab:nu:111
+Fortune:46:Fortuna:Wind:23:32:29:34:27:no:no:nu:no:wk:nu:no:no:no:no:112
+Moon:50:Tsukiyomi:Almighty:38:32:33:37:17:rs:no:no:no:no:no:no:wk:rs:rp:113
+Sun:47:Horus:Almighty:30:32:29:35:22:no:no:wk:no:nu:no:no:no:rp:no:114
+Priestess:40:Kikuri-Hime:Healing:22:31:24:28:22:no:no:wk:no:no:nu:no:no:rs:no:115
+Lovers:48:Narcissus:Ailment:27:31:29:33:31:no:no:wk:no:nu:rs:no:no:rs:no:116
+Sun:53:Ganesha:Ailment:39:31:37:33:26:rs:rs:no:no:no:ab:wk:no:no:no:117
+Lovers:42:Kushinada:Healing:24:30:26:28:25:no:no:no:wk:no:no:no:wk:rp:no:118
+Chariot:50:Athena Picaro:Almighty:35:30:31:32:29:rs:nu:no:no:wk:no:no:no:no:no:119
+Hermit:42:Kumbhanda:Ailment:25:30:25:27:26:no:no:nu:no:no:no:wk:no:no:rs:120
+Fortune:39:Atropos:Electric:23:30:22:27:22:no:no:wk:no:no:nu:no:no:no:no:121
+Strength:30:Orlov:Passive:30:30:30:30:30:rs:rs:no:no:no:no:no:no:no:wk:122
+Councillor:44:Ananta:Nuclear:26:30:31:27:25:no:no:no:ab:wk:no:no:no:no:no:123
+Justice P:45:Robin Hood:Almighty:32:29:28:29:24:no:no:no:no:no:no:no:no:rs:wk:124
+Hermit:49:Koumokuten:Phys:37:29:34:29:25:rs:no:no:wk:no:no:no:no:rs:no:125
+Sun:43:Yurlungur:Electric:26:29:30:27:24:no:no:no:no:nu:no:wk:no:rs:no:126
+Emperor:36:Thoth:Nuclear:21:28:21:24:21:no:no:no:no:no:no:wk:nu:nu:rs:127
+Temperance:45:Byakko:Ice:35:28:30:32:17:no:no:wk:ab:no:no:no:wk:no:rs:128
+Chariot:46:Athena:Almighty:33:27:29:29:27:rs:nu:no:no:wk:no:no:no:no:no:129
+Tower:41:Red Rider:Psychokinesis:26:27:25:29:23:no:no:no:no:no:no:no:no:wk:nu:130
+Tower:37:Belphegor:Ice:25:27:24:23:19:no:no:wk:rs:rs:no:no:rs:no:rp:131
+Faith:39:Unicorn:Bless:20:27:25:28:24:no:no:no:nu:no:no:rs:no:nu:wk:132
+Justice:41:Power:Bless:30:26:28:25:21:no:wk:no:no:no:rs:no:no:nu:wk:133
+Fortune:35:Lachesis:Ice:18:26:22:25:21:no:no:no:nu:wk:rs:no:no:no:no:134
+Temperance:33:Mithra:Bless:19:26:19:24:18:no:no:no:nu:wk:no:no:no:nu:no:135
+Star:36:Kaiwan:Almighty:23:26:24:22:20:no:nu:no:no:no:no:nu:wk:no:no:136
+Priestess:25:Koh-i-Noor:Passive:25:25:25:25:25:rs:wk:no:no:no:no:no:no:no:no:137
+Sun:39:Mithras:Nuclear:27:25:27:25:20:rs:rs:ab:no:no:no:wk:nu:no:no:138
+Fool:42:Ose:Ailment:32:24:25:31:21:no:nu:rs:no:no:no:no:no:wk:nu:139
+Fool:38:Legion:Psychokinesis:24:24:30:23:20:rs:no:rs:no:no:no:rs:no:wk:nu:140
+Empress P:36:Milady:Psychokinesis:27:24:22:22:21:no:no:no:no:no:no:rs:wk:no:no:141
+Strength:44:Valkyrie:Phys:33:24:28:29:25:no:rs:wk:rp:no:no:no:no:nu:no:142
+Death:37:Hell Biker:Fire:23:24:24:30:17:no:no:rp:no:no:rs:no:no:wk:no:143
+Moon:43:Girimehkala:Ailment:32:24:32:29:19:rp:rp:rs:no:no:no:no:no:wk:nu:144
+Moon:33:Mothman:Electric:21:24:16:24:21:no:wk:no:no:nu:no:rs:no:no:no:145
+Sun:34:Thunderbird:Electric:17:24:24:26:18:no:no:no:no:ab:no:wk:no:no:wk:146
+Judgement:34:Anubis:Almighty:19:24:22:21:23:no:rs:no:no:no:no:rs:no:nu:nu:147
+Hermit:35:Arahabaki:Ailment:21:23:22:24:22:rp:rp:no:no:no:no:wk:wk:rs:rs:148
+Hermit P:31:Necronomicon:Almighty:17:23:20:21:35:no:no:no:no:no:no:no:no:no:no:149
+Fortune:42:Ariadne Picaro:Almighty:36:23:29:24:21:no:rs:no:no:no:no:wk:nu:rs:no:150
+Devil:32:Lilim:Ice:17:23:18:25:20:no:no:no:rs:no:wk:no:no:wk:nu:151
+Councillor:32:Decarabia:Fire:21:23:19:22:18:wk:no:rp:no:no:no:no:rs:no:rs:152
+Hanged:42:Hecatoncheires:Psychokinesis:35:22:27:23:26:no:rs:no:no:no:no:no:no:wk:nu:153
+Chariot:38:White Rider:Curse:22:21:26:27:25:no:no:nu:wk:no:no:no:no:nu:rp:154
+Death:28:Pisaca:Curse:19:21:21:16:14:no:no:wk:no:rs:no:no:no:wk:nu:155
+Priestess:26:Isis:Healing:14:20:17:18:16:no:no:no:no:no:no:wk:no:nu:no:156
+Fortune:20:Stone of Scone:Passive:20:20:20:20:20:rs:rs:wk:no:no:no:no:no:no:no:157
+Star:30:Neko Shogun:Almighty:19:20:19:21:18:rs:no:no:no:rs:wk:no:no:nu:rs:158
+Moon:25:Kaguya Picaro:Almighty:17:20:19:15:11:no:no:wk:no:no:no:no:no:nu:nu:159
+Fool:29:Orpheus Picaro:Almighty:19:19:19:19:18:no:no:no:no:wk:no:no:no:rs:wk:160
+Magician:28:Choronzon:Curse:16:19:19:18:19:rs:no:ab:no:no:no:no:no:wk:no:161
+Justice:29:Principality:Bless:17:19:18:21:19:no:no:rs:no:no:no:no:no:nu:wk:162
+Hermit:31:Kurama Tengu:Wind:20:19:21:24:16:no:no:no:nu:no:rp:no:no:rs:rs:163
+Fortune:30:Ariadne:Almighty:23:19:20:17:18:no:rs:no:no:no:no:wk:nu:rs:no:164
+Fortune:27:Clotho:Healing:14:19:18:20:17:no:no:no:wk:no:nu:no:wk:no:no:165
+Strength:31:Zouchouten:Electric:22:19:24:18:17:rs:no:no:no:no:wk:no:no:no:no:166
+Hanged:26:Take-Minakata:Electric:17:19:18:16:15:no:no:no:no:rs:no:wk:no:no:rs:167
+Devil:27:Andras:Ice:15:19:19:21:14:no:no:wk:rs:no:no:rs:no:wk:nu:168
+Hierophant:25:Anzu:Wind:14:18:15:21:14:no:wk:no:no:rs:rp:no:wk:no:no:169
+Chariot:30:Ara Mitama:Nuclear:20:18:20:20:19:rs:no:no:wk:no:no:no:no:no:no:170
+Fool:26:Orpheus:Almighty:17:17:17:17:17:no:no:no:no:wk:no:no:no:rs:wk:171
+Lovers:19:Leanan Sidhe:Almighty:9:17:12:16:10:no:no:wk:no:no:rs:rs:no:no:no:172
+Hermit:24:Naga:Electric:15:17:15:17:15:no:rs:no:no:nu:wk:no:no:no:no:173
+Star:23:Fuu-Ki:Wind:14:17:16:15:14:no:rs:no:no:wk:ab:no:no:no:no:174
+Emperor:25:Setanta:Phys:19:16:18:13:16:no:rs:no:no:no:no:wk:rs:no:no:175
+Faith:27:Tam Lin:Almighty:21:16:18:16:17:rs:no:nu:no:no:rs:no:no:ab:wk:176
+Fool:23:Izanagi Picaro:Almighty:16:15:15:16:14:no:no:no:no:nu:wk:no:no:no:nu:177
+Priestess P:21:Johanna:Nuclear:15:15:14:15:11:no:no:no:no:no:no:wk:rs:no:no:178
+Empress:26:Lamia:Fire:21:15:18:19:12:no:no:no:wk:rs:no:no:wk:no:nu:179
+Empress:15:Queen's Necklace:Passive:15:15:15:15:15:rs:rs:no:no:no:no:wk:no:no:no:180
+Strength:24:Rakshasa:Phys:20:15:18:17:9:rs:nu:rs:no:no:wk:no:no:wk:rs:181
+Moon:24:Sui-Ki:Ice:16:15:15:18:15:no:rs:no:ab:rs:no:no:wk:no:no:182
+Moon:16:Kaguya:Almighty:11:15:12:11:6:no:no:wk:no:no:rs:no:no:nu:nu:183
+Faith:21:Phoenix:Nuclear:12:15:15:17:11:no:no:no:rs:wk:nu:no:no:no:no:184
+Councillor:22:Nigi Mitama:Healing:13:15:15:16:14:no:no:no:no:wk:no:no:no:rs:rs:185
+Fool:16:High Pixie:Healing:8:14:10:13:10:no:wk:no:no:rs:rs:no:wk:no:no:186
+Hierophant:17:Orobas:Fire:11:14:15:12:6:no:no:no:wk:no:rs:no:no:no:rs:187
+Chariot:18:Shiki-Ouji:Psychokinesis:16:14:12:9:10:nu:nu:no:no:no:no:no:wk:nu:nu:188
+Hermit:17:Sudama:Psychokinesis:9:14:12:13:10:no:no:no:wk:no:rp:no:wk:no:no:189
+Hanged:21:Orthrus:Fire:16:14:14:19:7:no:no:ab:wk:no:no:no:rs:no:no:190
+Fool:20:Izanagi:Almighty:14:13:13:14:13:no:no:no:no:rs:wk:no:no:no:nu:191
+Magician:23:Sandman:Wind:11:13:14:17:21:no:no:wk:no:wk:rs:no:no:no:no:192
+Chariot:25:Kin-Ki:Phys:21:13:21:15:12:rs:rp:no:no:no:no:no:no:no:no:193
+Death:17:Matador:Psychokinesis:11:13:10:16:8:no:no:no:no:wk:nu:no:no:no:no:194
+Temperance:15:Makami:Nuclear:13:12:8:11:8:no:nu:no:no:wk:rs:no:rs:nu:no:195
+Moon:12:Onmoraki:Curse:9:12:7:10:5:no:no:rs:wk:no:no:no:no:wk:nu:196
+Sun:16:Suzaku:Nuclear:9:12:10:15:9:no:no:ab:wk:no:no:no:rs:no:no:197
+Fool:13:Orpheus F Picaro:Almighty:9:11:9:10:7:no:no:no:no:wk:no:no:no:rs:wk:198
+Priestess:11:Apsaras:Ice:7:11:6:10:6:no:no:wk:rs:wk:no:no:no:no:no:199
+Empress:20:Yaksini:Ice:14:11:13:16:13:no:nu:no:rs:no:no:no:wk:no:no:200
+Strength:15:Shiisaa:Electric:10:11:11:11:9:rs:no:no:no:no:no:wk:no:nu:wk:201
+Temperance:22:Jikokuten:Phys:18:11:16:15:13:rs:no:no:no:no:no:no:no:rs:wk:202
+Devil:19:Flauros:Ailment:15:11:13:14:11:no:no:nu:wk:no:rs:no:rs:no:no:203
+Star:11:Kodama:Ailment:7:11:8:10:4:no:no:wk:rs:no:no:no:no:no:no:204
+Councillor:12:Kusi Mitama:Healing:7:11:9:8:8:no:no:wk:no:no:rs:no:no:no:no:205
+Magician:17:Nekomata:Ailment:13:10:12:15:8:no:no:no:no:wk:no:rs:no:no:no:206
+Emperor:16:Eligor:Fire:12:10:13:10:10:no:no:rs:no:wk:no:no:no:no:rs:207
+Emperor:10:Regent:Passive:10:10:10:10:10:rs:rs:no:no:no:no:no:wk:no:no:208
+Emperor P:15:Goemon:Ice:13:10:11:10:8:no:no:wk:rs:no:no:no:no:no:no:209
+Lovers:13:Ame-no-Uzume:Almighty:7:10:9:11:9:no:no:ab:no:no:no:wk:no:no:no:210
+Hanged:9:Hua Po:Fire:4:10:4:8:8:no:wk:rp:wk:no:no:no:no:no:no:211
+Death:20:Nue:Curse:16:10:17:14:10:no:no:wk:rs:no:no:no:no:no:nu:212
+Fool:11:Orpheus F:Almighty:8:9:8:9:6:no:no:no:no:wk:no:no:no:rs:wk:213
+Magician:11:Jack Frost:Ice:8:9:7:9:7:no:no:wk:nu:no:no:no:no:no:no:214
+Justice:14:Archangel:Bless:11:9:10:12:7:no:no:no:no:wk:no:no:no:nu:wk:215
+Justice:9:Angel:Bless:6:9:5:9:5:no:wk:no:no:rs:no:no:no:nu:wk:216
+Strength:20:Oni:Phys:19:9:17:12:10:rs:rs:no:no:no:no:no:no:no:no:217
+Hanged:14:Inugami:Fire:11:9:9:12:8:no:nu:nu:no:no:wk:no:no:no:nu:218
+Hermit:9:Koropokkuru:Ice:5:8:6:9:6:no:no:wk:rs:no:rs:no:no:no:no:219
+Temperance:11:Koppa Tengu:Wind:7:8:8:11:6:no:no:no:wk:no:rs:no:no:wk:no:220
+Priestess:6:Silky:Healing:4:7:4:5:5:no:no:wk:rs:wk:no:no:no:no:no:221
+Hermit:13:Ippon-Datara:Phys:11:7:14:6:8:no:rs:rs:wk:no:rp:no:no:rs:rs:222
+Moon:18:Black Ooze:Curse:15:7:16:8:15:rs:rs:no:rs:wk:no:wk:no:wk:nu:223
+Moon:7:Succubus:Curse:4:7:5:8:4:no:no:rs:no:no:wk:no:no:wk:nu:224
+Hierophant:9:Berith:Phys:9:6:8:8:3:no:nu:rs:wk:no:no:no:no:no:no:225
+Lovers:6:Saki Mitama:Healing:4:6:5:6:4:no:no:no:rs:no:wk:no:no:no:no:226
+Lovers P:5:Carmen:Fire:3:6:4:4:5:no:no:rs:wk:no:no:no:no:no:no:227
+Chariot:10:Slime:Curse:9:6:11:6:5:rs:rs:wk:no:no:wk:no:no:no:no:228
+Temperance:7:Genbu:Ice:5:6:7:6:4:no:no:no:nu:wk:no:rs:no:no:no:229
+Devil:5:Incubus:Ailment:4:6:4:5:3:no:no:wk:no:rs:no:no:no:wk:no:230
+Strength:6:Kelpie:Wind:5:5:5:6:4:no:no:no:rs:wk:no:no:no:no:no:231
+Death:9:Mokoi:Ailment:9:5:6:10:4:no:no:no:no:rs:wk:no:no:no:no:232
+Magician:5:Cait Sith:Ailment:6:4:4:5:3:no:no:no:no:rs:wk:no:no:no:no:233
+Chariot:3:Agathion:Electric:3:4:5:7:3:no:rs:no:no:rs:wk:no:no:no:no:234
+Fool:8:Obariyon:Phys:7:3:9:8:4:rs:no:no:no:wk:no:no:no:no:no:235
+Magician:2:Jack-o'-Lantern:Fire:2:3:3:3:2:no:no:ab:wk:no:wk:no:no:no:no:236
+Magician P:1:Zorro:Wind:2:3:1:3:1:no:no:no:no:wk:rs:no:no:no:no:237
+Lovers:2:Pixie:Electric:1:3:3:4:2:no:wk:no:wk:rs:no:no:no:rs:wk:238
+Chariot P:4:Captain Kidd:Electric:5:3:6:3:3:no:no:no:no:rs:wk:no:no:no:no:239
+Hermit:4:Bicorn:Wind:5:3:3:5:3:no:no:no:no:wk:no:no:no:no:rs:240
+Death:3:Mandrake:Electric:2:3:3:4:4:no:no:wk:no:rs:no:no:no:no:no:241
+Fool:1:Arsene:Curse:2:2:2:3:1:no:no:no:wk:no:no:no:no:wk:rs:242
